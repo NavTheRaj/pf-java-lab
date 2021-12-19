@@ -1,1 +1,2 @@
-# pf-java-lab
+# Programming Fundamentals Lab with Java
+## Collaboration
